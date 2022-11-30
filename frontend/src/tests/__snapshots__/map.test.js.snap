@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div>
+    <div
+      className="map-container"
+    >
+      <div
+        className="sidebarStyle"
+      >
+        <div>
+          Longitude: 
+          -89
+           | Latitude: 
+          43
+           | Zoom: 
+          12
+        </div>
+      </div>
+      <div
+        className="btnGroup"
+      >
+        <button
+          disabled={true}
+          id="btn-reg"
+          onClick={[Function]}
+        >
+          Get Random region
+        </button>
+        <button
+          disabled={true}
+          id="btn-cor"
+          onClick={[Function]}
+        >
+          Get Random coordinates
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
